@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   else
     spec.add_runtime_dependency "fluentd"
   end
-  spec.add_runtime_dependency "sentry-raven", "~> 0.15.0"
+  spec.add_runtime_dependency "sentry-raven", "2.5.3"
 end
